@@ -17,8 +17,6 @@ This C++ program is a professional-grade Attendance Report Generator designed to
 
 Key features include:
 1: Polymorphic report generation (Daily & Trend Reports)
-
-
 2: Dynamic memory management (no leaks)
 3: Clean console-based interface
 4: Extensible architecture for future enhancements
@@ -51,7 +49,7 @@ It showcases key C++ concepts such as:
  Technologies Used
 - *Language:* C++  
 - *Compiler:* Any C++11+ compatible compiler  
-- *Platform:* Console (CLI)
-The Attendance Report Generator demonstrates how clean C++ design and object-oriented principles can create a practical, efficient solution for attendance tracking. With its polymorphic reporting, dynamic memory management, and user-friendly interface, this project serves as both a functional tool for educators and a learning resource for developers.
+- *Platform:* Console (CLI),
+ THERFORE The Attendance Report Generator demonstrates how clean C++ design and object-oriented principles can create a practical, efficient solution for attendance tracking. With its polymorphic reporting, dynamic memory management, and user-friendly interface, this project serves as both a functional tool for educators and a learning resource for developers.
 Whether used in academic institutions or as a reference for C++ best practices, the system proves that well structured code leads to maintainable, scalable software. Future enhancements like database integration or a GUI could expand its capabilities even further.
 
