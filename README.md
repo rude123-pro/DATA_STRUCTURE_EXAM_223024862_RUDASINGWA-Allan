@@ -16,10 +16,12 @@ Contribution Guidelines: Ways to extend or modify the system
 This C++ program is a professional-grade Attendance Report Generator designed to streamline student attendance tracking and analysis. Built with object-oriented programming principles, it efficiently manages attendance records while generating detailed daily reports and trend analyses. The system supports dynamic record management (add/remove entries) and produces insightful reports with attendance percentages.
 
 Key features include:
-✔ Polymorphic report generation (Daily & Trend Reports)
-✔ Dynamic memory management (no leaks)
-✔ Clean console-based interface
-✔ Extensible architecture for future enhancements
+1: Polymorphic report generation (Daily & Trend Reports)
+
+
+2: Dynamic memory management (no leaks)
+3: Clean console-based interface
+4: Extensible architecture for future enhancements
 
 Ideal for educators and institutions, this tool demonstrates C++ best practices, including inheritance, abstraction, and RAII principles. Compiles with any C++11+ compiler.
 
@@ -51,5 +53,5 @@ It showcases key C++ concepts such as:
 - *Compiler:* Any C++11+ compatible compiler  
 - *Platform:* Console (CLI)
 The Attendance Report Generator demonstrates how clean C++ design and object-oriented principles can create a practical, efficient solution for attendance tracking. With its polymorphic reporting, dynamic memory management, and user-friendly interface, this project serves as both a functional tool for educators and a learning resource for developers.
-Whether used in academic institutions or as a reference for C++ best practices, the system proves that well-structured code leads to maintainable, scalable software. Future enhancements—like database integration or a GUI—could expand its capabilities even further.
+Whether used in academic institutions or as a reference for C++ best practices, the system proves that well structured code leads to maintainable, scalable software. Future enhancements like database integration or a GUI could expand its capabilities even further.
 
